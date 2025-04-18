@@ -1,8 +1,0 @@
-{
-  "name": "DownloadArtifactsTfsVersionControl",
-  "main": "download.js",
-  "dependencies": {
-    "azure-devops-node-api": "11.2.0",
-    "azure-pipelines-task-lib": "^3.3.1"
-  }
-}
